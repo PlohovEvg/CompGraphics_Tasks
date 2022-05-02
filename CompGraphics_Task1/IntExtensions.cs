@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CompGraphics_Task1
 {
-    static class IntExtensions
+    public static class IntExtensions
     {
         public static double ToRadians(this int degrees)
         {
